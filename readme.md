@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/Snoopy_Peanuts.png" alt="Nyebe" width="450" height="350">
+    <img src="./assets/img/Snoopy_Peanuts.png" alt="Nyebe" width="380" height="350">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
