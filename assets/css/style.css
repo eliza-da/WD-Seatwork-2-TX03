@@ -1,0 +1,42 @@
+
+<style> /* Additional CSS for custom styling */
+
+header {
+
+display: flex;
+justify-content:
+space-between;
+align-items: center;
+
+} h1 {
+font-size: 24px; /* Adjust size as needed */
+
+color: #78a2cc; /* Color for "Snoopy" */
+}
+.left {
+width: %; /* Adjust width as needed */
+float: left;
+}
+
+.right { width: 40%; /* Adjust width as needed */
+float: right;
+}
+
+h1 span { font-size: 28px; /* Larger font size for "" */
+color: #ff8fab; /* PINK color for "Snoopy" */
+}
+
+p {
+font-size: 20px; /* Adjust size as needed */
+line-height: 0.5; /* Adjust line height for readability */
+color: #572649; /* Default color for paragraphs */
+}
+
+img {
+
+max-width: 100%;
+height: auto;
+display: block;
+
+}
+</style>
